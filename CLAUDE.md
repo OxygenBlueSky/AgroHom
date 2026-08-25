@@ -24,9 +24,16 @@
 - All heatmaps use the **Greens** colormap (`cmap='Greens'`)
 - Consistent styling across all visualizations:
   - Figure DPI: 300
-  - Title font size: 14
-  - Label font size: 12
+  - Title font size: 18 (`TITLE_FS`)
+  - Label font size: 16 (`AXIS_LABEL_FS`)
+  - Tick/legend/data-label font size: 14 (`TICK_FS` / `LEGEND_FS` / `DATA_LABEL_FS`)
   - Tight layout with `bbox_inches='tight'`
+- Font sizes are defined once as named constants in the Global Font Size
+  Configuration block (Cell 4) and reused everywhere via those constants
+  (never hardcode a new numeric `fontsize=`/`labelsize=` value) — see
+  `TITLE_FS`, `AXIS_LABEL_FS`, `TICK_FS`, `LEGEND_FS`, `LEGEND_TITLE_FS`,
+  `DATA_LABEL_FS`, `HMAP_ANNOT_FS`, `HMAP_TICK_FS`, `PLOTLY_TEXT_FS`,
+  `PLOTLY_TITLE_FS`
 
 ### Data File
 - Primary data source: `data_agrohom/Leo all extractions.xlsx`
