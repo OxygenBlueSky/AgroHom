@@ -1,5 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
   <component name="ChangeListManager">
     <list default="true" id="6814eb21-799a-42de-b0ea-b46d0524bec8" name="Changes" comment="" />
     <option name="SHOW_DIALOG" value="false" />
@@ -7,12 +10,34 @@
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Jupyter Notebook" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="ProjectColorInfo"><![CDATA[{
-  "associatedIndex": 8
-}]]></component>
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;OxygenBlueSky&quot;
+  }
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/OxygenBlueSky/AgroHom.git&quot;,
+    &quot;accountId&quot;: &quot;2d800a2d-06f0-4673-98d4-f5a0a59b2fa7&quot;
+  }
+}</component>
+  <component name="ProblemsViewState">
+    <option name="selectedTabId" value="CurrentFile" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
   <component name="ProjectId" id="32j9vpJPb427PTASMOU7KdY0lH5" />
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
@@ -22,16 +47,33 @@
   "keyToString": {
     "ModuleVcsDetector.initialDetectionPerformed": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
+    "RunOnceActivity.TerminalTabsStorage.copyFrom.TerminalArrangementManager.252": "true",
+    "RunOnceActivity.git.unshallow": "true",
+    "database.data.extractors.current.export.id": "Comma-separated (CSV)_id",
     "git-widget-placeholder": "main",
+    "junie.onboarding.icon.badge.shown": "true",
+    "last_opened_file_path": "/Users/anezkasokol/Dropbox/AgroHomeo Review/Analysis/python_code_agrohom",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
     "nodejs_package_manager_path": "npm",
+    "run.code.analysis.last.selected.profile": "aDefault",
+    "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings",
+    "to.speed.mode.migration.done": "true",
     "vue.rearranger.settings.migration": "true"
   }
 }]]></component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
+    </key>
+  </component>
   <component name="SharedIndexes">
     <attachedChunks>
       <set>
-        <option value="bundled-js-predefined-d6986cc7102b-6a121458b545-JavaScript-PY-251.25410.159" />
-        <option value="bundled-python-sdk-e0ed3721d81e-36ea0e71a18c-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-251.25410.159" />
+        <option value="bundled-js-predefined-d6986cc7102b-b598e85cdad2-JavaScript-PY-252.25557.178" />
+        <option value="bundled-python-sdk-ce6832f46686-7b97d883f26b-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-252.25557.178" />
       </set>
     </attachedChunks>
   </component>
@@ -42,11 +84,50 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1757923347400</updated>
-      <workItem from="1757923348482" duration="1000" />
+      <workItem from="1757923348482" duration="345000" />
+      <workItem from="1757923757325" duration="342000" />
+      <workItem from="1757924171386" duration="2543000" />
+      <workItem from="1757937503510" duration="14515000" />
+      <workItem from="1758012694579" duration="14281000" />
+      <workItem from="1758619275193" duration="17580000" />
+      <workItem from="1758698333297" duration="30039000" />
+      <workItem from="1759393407743" duration="28000" />
+      <workItem from="1762168067653" duration="2000" />
+      <workItem from="1762351070674" duration="10677000" />
+      <workItem from="1770889222242" duration="4701000" />
+      <workItem from="1770896571523" duration="137000" />
+      <workItem from="1770896711644" duration="4602000" />
+      <workItem from="1770901335162" duration="2132000" />
+      <workItem from="1770903482600" duration="13594000" />
+      <workItem from="1770981842433" duration="35120000" />
+      <workItem from="1771942517960" duration="13393000" />
+      <workItem from="1772614782483" duration="9402000" />
+      <workItem from="1773133003513" duration="503000" />
+      <workItem from="1773225284023" duration="2127000" />
+      <workItem from="1777984031776" duration="8737000" />
+      <workItem from="1777992872755" duration="2165000" />
+      <workItem from="1778243977647" duration="662000" />
+      <workItem from="1779092300974" duration="1287000" />
+      <workItem from="1779782139542" duration="14379000" />
+      <workItem from="1779865244075" duration="32200000" />
+      <workItem from="1782120174884" duration="3062000" />
+      <workItem from="1782897532776" duration="598000" />
+      <workItem from="1787649931342" duration="740000" />
     </task>
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
     <option name="version" value="3" />
+  </component>
+  <component name="Vcs.Log.Tabs.Properties">
+    <option name="TAB_STATES">
+      <map>
+        <entry key="MAIN">
+          <value>
+            <State />
+          </value>
+        </entry>
+      </map>
+    </option>
   </component>
 </project>
